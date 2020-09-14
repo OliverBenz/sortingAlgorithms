@@ -1,2 +1,2 @@
-# sortingAlgorithms
+# SortingAlgorithms
 Collection of Sorting Algorithms
